@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sierradeppe
 - 👀 I’m interested in physics and astrophysics!
-- 🌱 I’m currently learning about data analysis with python
+- 🌱 I'm working with LuSEE-Night
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love hiking, swimming and most other outdoor activities 
 
